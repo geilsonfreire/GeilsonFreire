@@ -1,7 +1,6 @@
 <div>
   <img  height="200px" width="800px" src="BannerGitHub.png"/>
 </div>
-<br>
 
 ### Olá Sou Geilson Freire 🖐️
 ## 🏋️‍♂️ Sucesso e criado mediante pequenos passos em direção a seus objetivos. 👊!
