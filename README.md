@@ -4,7 +4,7 @@
 
 
 <h1 align="left">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&center=true&vCenter=true&width=800&height=70&duration=4000&lines=olá!+🖐️;+Sou+Geilson+Freire;+Sou+dev+front+End!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=25&left=true&vCenter=true&width=800&height=70&duration=3000&lines=olá!+🖐️;+Sou+Geilson+Freire;+Sou+dev+front+End!;" />
   <h5>🏋️‍♂️ Sucesso e criado mediante pequenos passos em direção a seus objetivos. 👊!</h5>
 </h1>
 
