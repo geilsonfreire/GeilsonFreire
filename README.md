@@ -3,14 +3,16 @@
   <h1 width=100%>
   <img src="https://readme-typing-svg.herokuapp.com/?color=2007C6&size=35&left=true&vCenter=true&width=1000&lines=olá!+🖐️;+Sou+Geilson+Freire;+Sou+web+dev+front+-+End!;" />
   </h1>
+  
   <div align="right">
-  <a href = "mailto: work.luigi.geilsonfreireleite@gmail.com"><img padding="left: 15px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_Blank"></a>
-  <a href = "https://www.linkedin.com/in/geilson-freire-leite-5a895913b /"><img padding="left: 15px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href = "mailto: work.luigi.geilsonfreireleite@gmail.com target="_blank"><img padding="left: 15px" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_Blank"></a>
+    <a href = "https://www.linkedin.com/in/geilson-freire-leite-5a895913b target="_blank /"><img padding="left: 15px" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+    <a href="https://wa.me/+559898818872" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   </div>
 </div>
 
 <div>
-  <img  height="170em" src="https://github-readme-stats.vercel.app/api?username=GeilsonFreire&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img  height="170em" width="400" src="https://github-readme-stats.vercel.app/api?username=GeilsonFreire&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
   <img align="right" height="170em" width="400"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeilsonFreire&layout=compact&langs_count=16&theme=highcontrast"/>
 </div> 
 
