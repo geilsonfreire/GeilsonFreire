@@ -26,8 +26,8 @@
 
 <div style="display: inline_block"><br/>
   <img align="left" height="250" margin="rigth: 15px" alt="coding-time" src="code.gif"> 
-  <h2 align="center">Estudos acadêmicos </h2>
-  <p align="right">Cursando Engenharia de software<br>Universidade ESTÁCIO</p>
+  <h2 align="center">Estudos acadêmicos</h2>
+  <p align="right">🎓 Cursando Engenharia de software<br>Universidade ESTÁCIO</p>
   <img align="right" height="50em" width="200" src="ESTACIO.gif"></img>
   <br>
   <br>
