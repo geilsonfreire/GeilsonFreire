@@ -16,7 +16,8 @@
   <img align="right" height="170em" width="400"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeilsonFreire&layout=compact&langs_count=16&theme=highcontrast"/>
 </div> 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GeilsonFreire&bg_color=0d1117&color=2007c6&line=2007c6&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GeilsonFreire&bg_color=0d1117&color=2007c6&line=2007c6&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) |
+
 
 ## My Skills
 <div align="center" >
