@@ -12,11 +12,11 @@
 </div>
 
 <div>
-  <img  height="170em" width="400" src="https://github-readme-stats.vercel.app/api?username=GeilsonFreire&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
-  <img align="right" height="170em" width="400"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeilsonFreire&layout=compact&langs_count=16&theme=highcontrast"/>
+  <img  height="170em" width="47%" src="https://github-readme-stats.vercel.app/api?username=GeilsonFreire&show_icons=true&theme=highcontrast&include_all_commits=true&count_private=true"/>
+  <img align="right" height="170em" width="47%"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=GeilsonFreire&layout=compact&langs_count=16&theme=highcontrast"/>
 </div> 
 
-[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GeilsonFreire&bg_color=0d1117&color=2007c6&line=2007c6&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) |
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=GeilsonFreire&bg_color=0d1117&color=2007c6&line=2007c6&point=ff9494&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 ## My Skills
@@ -24,11 +24,17 @@
   <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,javascript,vscode,github,php,python,git" />
 </div>
 
-<div style="display: inline_block"><br/>
-  <img align="left" height="250" margin="rigth: 15px" alt="coding-time" src="code.gif"> 
-  <h2 align="center">Estudos acadêmicos</h2>
-  <p align="right">🎓 Cursando Engenharia de software<br>Universidade ESTÁCIO</p>
-  <img align="right" height="50em" width="200" src="ESTACIO.gif"></img>
+<div>
+  <img align="left" height="200" width="50%" border-rigth: 15px alt="coding-time" src="code.gif" /></img>
+
+  <div align="center">
+  <h3>Cursando...</h3>
+  <p> 🎓 Cursando Engenharia de softwareUniversidade ESTÁCIO</p>
+  <img height="50em" width="30%" src="ESTACIO.gif"></img>
+  </div>
+
+ 
+  
   <br>
   <br>
   <br>
