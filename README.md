@@ -1,6 +1,7 @@
 <div>
    <img src="lineBar.png" width="100%" height="8px"/>
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2007C6&height=120&section=header"/>
+   <img width=100% height="300" src="banner.gif" controls autplay />
+ <!-- <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2007C6&height=120&section=header"/>-->
   <h1 width=100%>
   <img src="https://readme-typing-svg.herokuapp.com/?color=2007C6&size=35&left=true&vCenter=true&width=1000&lines=olá!+🖐️;+Sou+Geilson+Freire;+Sou+web+dev+front+-+End!;" />
   </h1>
