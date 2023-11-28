@@ -1,4 +1,3 @@
-
 <div>
    <img src="lineBar.png" width="100%" height="8px"/>
   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2007C6&height=120&section=header"/>
@@ -42,9 +41,6 @@
   </ul>
 </div>
 <div>
-  
-
-  
   <br>
   <br>
   <br>
@@ -60,4 +56,5 @@
 </div>
 
 
-  <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2007c6&height=120&section=footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=2007c6&height=120&section=footer"/>
+<img src="lineBar.png" width="100%" height="8px"/>
