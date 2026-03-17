@@ -2,7 +2,7 @@
    <img src="lineBar.png" width="100%" height="8px"/>
 
 ```
- const bio = {
+ const bio = () => {
    - Geilson Freire
    - Desenvolvedor de SOFTWARE FULL-STACK
 }
